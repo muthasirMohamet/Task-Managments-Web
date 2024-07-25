@@ -1,8 +1,18 @@
 # Task-Managments-Web
 
 ## Sreanshots
-## Screenshot
 
+### Loging
+![Person Image](https://github.com/muthasirMohamet/Task-Managments-Web/blob/main/login.png)
+### Loging
+![Person Image](https://github.com/muthasirMohamet/Task-Managments-Web/blob/main/signup.png)
+### Loging
+![Person Image](https://github.com/muthasirMohamet/Task-Managments-Web/blob/main/dashboard.png)
+### Loging
+![Person Image](https://github.com/muthasirMohamet/Task-Managments-Web/blob/main/project.png)
+### Loging
+![Person Image](https://github.com/muthasirMohamet/Task-Managments-Web/blob/main/task.png)
+### Loging
 ![Person Image](https://github.com/muthasirMohamet/Task-Managments-Web/blob/main/person.png)
 
 
