@@ -4,15 +4,15 @@
 
 ### Loging
 ![Person Image](https://github.com/muthasirMohamet/Task-Managments-Web/blob/main/login.png)
-### Loging
+### SignUp
 ![Person Image](https://github.com/muthasirMohamet/Task-Managments-Web/blob/main/signup.png)
-### Loging
-![Person Image](https://github.com/muthasirMohamet/Task-Managments-Web/blob/main/dashboard.png)
-### Loging
+### Dashboard
+![Person Image](https://github.com/muthasirMohamet/Task-Managments-Web/blob/main/dasboard.png)
+### Project
 ![Person Image](https://github.com/muthasirMohamet/Task-Managments-Web/blob/main/project.png)
-### Loging
+### Tasks
 ![Person Image](https://github.com/muthasirMohamet/Task-Managments-Web/blob/main/task.png)
-### Loging
+### Assigned Persons
 ![Person Image](https://github.com/muthasirMohamet/Task-Managments-Web/blob/main/person.png)
 
 
