@@ -15,8 +15,9 @@ const ProjectCreation = () => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    // Save to local storage
-    localStorage.setItem('project', JSON.stringify(project));
+    // Save project to local storage
+    const existingProjects = JSON.parse(localStorage.getItem('projects')) || [];
+    localStorage.setItem('projects', JSON.stringify([...existingProjects, project]));
     console.log('Project saved:', project);
     // Optionally, clear form fields after submission
     setProject({
