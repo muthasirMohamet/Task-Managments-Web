@@ -37,6 +37,7 @@ The Task Management System is a web application built using React.js only. The s
 - **Routing:** React Router
 
 ##Usage
+
 Sign Up / Login: Create a new account or log in to an existing account.
 Create Projects: Add new projects with relevant details.
 Create and Manage Tasks: Add tasks to projects, set priorities, and track progress.
