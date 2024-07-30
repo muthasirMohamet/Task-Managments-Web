@@ -18,7 +18,7 @@
 
 ## Overview
 
-The Task Management System is a web application built using React.js for the frontend and Java Spring Boot with Thymeleaf for the backend. The system provides functionalities for managing tasks and projects, including user registration, project creation, task assignment, and more.
+The Task Management System is a web application built using React.js only. The system provides functionalities for managing tasks and projects, including user registration, project creation, task assignment, and more.
 
 ## Features
 
@@ -30,22 +30,11 @@ The Task Management System is a web application built using React.js for the fro
 
 ## Technology Stack
 
-- **Frontend:** React.js, Tailwind CSS
-- **Backend:** Java Spring Boot, Thymeleaf
-- **Database:** (Specify your database here, e.g., MySQL, PostgreSQL)
+- **Frontend:** Tailwind CSS
+- **Backend:** React.js
+- **Database:** (Local storage)
 - **State Management:** React Hooks
 - **Routing:** React Router
-
-## Getting Started
-
-### Prerequisites
-
-Ensure you have the following installed:
-
-- Node.js (for React.js)
-- Java JDK (for Spring Boot)
-- Maven (for Spring Boot)
-- (Database of your choice, e.g., MySQL)
 
 ##Usage
 Sign Up / Login: Create a new account or log in to an existing account.
